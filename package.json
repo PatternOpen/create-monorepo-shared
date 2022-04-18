@@ -1,0 +1,7 @@
+{
+  "name": "create-monorepo-shared",
+  "version": "0.1.0",
+  "description": "create-monorepo-shared",
+  "main": "index.js",
+  "license": "MIT"
+}
